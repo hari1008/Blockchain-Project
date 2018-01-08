@@ -1,4 +1,4 @@
-* PharmaChaincode Chaincode 
+* Pharma Blockchain code
 
 PharmaChaincode chain code that can be deployed on blockchain as a service which is based on hyperledger fabric v0.6
 This chaincode is written in Golang for hyperledger fabric v0.6
